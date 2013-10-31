@@ -1,0 +1,4 @@
+name: EbeanIssue
+version: 0.1.0
+main: net.cubespace.EbeanIssue.EbeanIssuePlugin
+database: true
